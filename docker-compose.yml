@@ -9,7 +9,7 @@ services:
     user: node
     working_dir: /home/node/app/api
     volumes:
-      - C:/Workspace/lead/api:/home/node/app
+      - ./:/home/node/app
     ports:
       - 7770:7770
     environment:
@@ -26,7 +26,7 @@ services:
     image: react_client
     working_dir: /home/node/app/client
     volumes:
-      - C:/Workspace/lead/client:/home/node/app
+      - ./:/home/node/app
     ports:
       - 7771:7771
     env_file:
