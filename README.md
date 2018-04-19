@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/chas-academy/lead.png?columns=all)](https://waffle.io/chas-academy/lead?utm_source=badge)
 # Project Boilerplate
 This is the project boilerplate which will get you started. For any questions regarding the stack, please use our [#help](https://chasacademy.slack.com/messages/C61J8A678/#help) channel in Slack.
 
